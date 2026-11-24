@@ -1,0 +1,14 @@
+{
+  "name": "Examination Tools",
+  "description": "Red and black theme controls, background configuration, preview, diagnostics, and config backup.",
+  "authors": [
+    {
+      "name": "Iloveexamination"
+    }
+  ],
+  "main": "index.js",
+  "hash": "development",
+  "vendetta": {
+    "icon": "ic_image"
+  }
+}
