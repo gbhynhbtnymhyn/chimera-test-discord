@@ -1,0 +1,198 @@
+{
+  "name": "Examination \u2014 Chimera",
+  "description": "Black and crimson Examination-inspired theme for Kettu/Vendetta spec 2.",
+  "authors": [
+    {
+      "name": "Eggs"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#b30b2b"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#260a12"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#090506"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#13090d"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#170b10"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#2b0b15"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#350b18"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#210910"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#4a0b1d"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#090506"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#10090c"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#050304"
+    ],
+    "CHANNEL_ICON": [
+      "#e21a3d"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#c5aeb5"
+    ],
+    "CHAT_BACKGROUND": [
+      "#080506"
+    ],
+    "HEADER_PRIMARY": [
+      "#f4e8ec"
+    ],
+    "HEADER_SECONDARY": [
+      "#c8b5bc"
+    ],
+    "HOME_BACKGROUND": [
+      "#090506"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ff3154"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#e21a3d"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#77545e"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#c5aeb5"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#19090f"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#2b0b15"
+    ],
+    "TEXT_DANGER": [
+      "#ff3154"
+    ],
+    "TEXT_LINK": [
+      "#ff4564"
+    ],
+    "TEXT_MUTED": [
+      "#a18d94"
+    ],
+    "TEXT_NORMAL": [
+      "#eee2e6"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#10090c"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#19090f"
+    ]
+  },
+  "rawColors": {
+    "BRAND_260": "#ff4564",
+    "BRAND_360": "#d10d2b",
+    "BRAND_500": "#a90b28",
+    "GUILD_BOOSTING_PINK": "#ff3154",
+    "GUILD_BOOSTING_PURPLE": "#b30b2b",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#b30b2b",
+    "PRIMARY_100": "#f4e8ec",
+    "PRIMARY_300": "#ff4564",
+    "PRIMARY_360": "#e21a3d",
+    "PRIMARY_400": "#d10d2b",
+    "PRIMARY_460": "#211014",
+    "PRIMARY_500": "#c5aeb5",
+    "PRIMARY_600": "#170b10",
+    "PRIMARY_630": "#13090d",
+    "PRIMARY_660": "#10090c",
+    "PRIMARY_700": "#090506",
+    "PRIMARY_800": "#050304",
+    "RED_260": "#ff4564",
+    "RED_300": "#ff3154",
+    "RED_330": "#ff3154",
+    "RED_345": "#f02043",
+    "RED_360": "#e21a3d",
+    "RED_400": "#d10d2b",
+    "RED_430": "#c20b2d",
+    "RED_460": "#b30b2b",
+    "RED_500": "#a90b28",
+    "RED_530": "#990921",
+    "RED_560": "#89081e",
+    "RED_600": "#79071b",
+    "RED_630": "#690617",
+    "RED_660": "#590514",
+    "RED_700": "#490410",
+    "WHITE_500": "#f4e8ec",
+    "GREEN_100": "#ff3154",
+    "YELLOW_100": "#e21a3d",
+    "GREEN_130": "#ff3154",
+    "YELLOW_130": "#e21a3d",
+    "GREEN_160": "#ff3154",
+    "YELLOW_160": "#e21a3d",
+    "GREEN_200": "#ff3154",
+    "YELLOW_200": "#e21a3d",
+    "GREEN_230": "#ff3154",
+    "YELLOW_230": "#e21a3d",
+    "GREEN_260": "#ff3154",
+    "YELLOW_260": "#e21a3d",
+    "GREEN_300": "#ff3154",
+    "YELLOW_300": "#e21a3d4d",
+    "GREEN_330": "#ff3154",
+    "YELLOW_330": "#e21a3d",
+    "GREEN_345": "#ff3154",
+    "YELLOW_345": "#e21a3d",
+    "GREEN_360": "#ff3154",
+    "YELLOW_360": "#e21a3d",
+    "GREEN_400": "#ff3154",
+    "YELLOW_400": "#e21a3d",
+    "GREEN_430": "#ff3154",
+    "YELLOW_430": "#e21a3d",
+    "GREEN_460": "#ff3154",
+    "YELLOW_460": "#e21a3d",
+    "GREEN_500": "#ff3154",
+    "YELLOW_500": "#e21a3d",
+    "GREEN_530": "#ff3154",
+    "YELLOW_530": "#e21a3d",
+    "GREEN_560": "#ff3154",
+    "YELLOW_560": "#e21a3d",
+    "GREEN_600": "#ff3154",
+    "YELLOW_600": "#e21a3d",
+    "GREEN_630": "#ff3154",
+    "YELLOW_630": "#e21a3d",
+    "GREEN_660": "#ff3154",
+    "YELLOW_660": "#e21a3d",
+    "GREEN_700": "#ff3154",
+    "YELLOW_700": "#e21a3d",
+    "GREEN_730": "#ff3154",
+    "YELLOW_730": "#e21a3d",
+    "GREEN_760": "#ff3154",
+    "YELLOW_760": "#e21a3d",
+    "GREEN_800": "#ff3154",
+    "YELLOW_800": "#e21a3d",
+    "GREEN_830": "#ff3154",
+    "YELLOW_830": "#e21a3d",
+    "GREEN_860": "#ff3154",
+    "YELLOW_860": "#e21a3d",
+    "GREEN_900": "#ff3154",
+    "YELLOW_900": "#e21a3d"
+  },
+  "plus": {
+    "version": "0"
+  },
+  "spec": 2,
+  "background": {
+    "blur": 0,
+    "url": "https://raw.githubusercontent.com/gbhynhbtnymhyn/chimera-test-discord/main/examination-chimera-bg.jpg",
+    "alpha": 0.88,
+    "color": "#090506"
+  }
+}
