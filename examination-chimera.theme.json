@@ -1,0 +1,113 @@
+{
+  "spec": 2,
+  "name": "Examination \u2014 Chimera",
+  "description": "Dark black and crimson Examination-inspired theme.",
+  "authors": [
+    "Eggs"
+  ],
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#F3E8EB",
+      "#211014"
+    ],
+    "HEADER_SECONDARY": [
+      "#B9A6AC",
+      "#514047"
+    ],
+    "TEXT_NORMAL": [
+      "#E9DDE1",
+      "#302329"
+    ],
+    "TEXT_MUTED": [
+      "#A8959C",
+      "#65545B"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#080506",
+      "#F4EDF0"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#10090C",
+      "#E9DDE2"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#170B10",
+      "#E0D1D8"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#050304",
+      "#D8C8CF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#080506",
+      "#F4EDF0"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#10090C",
+      "#E9DDE2"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#260A12",
+      "#E8D7DE"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#3A0B18",
+      "#DCC8D0"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#581020",
+      "#CDB5C0"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#3B0A17",
+      "#D9C2CB"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#BDAAB0",
+      "#66545B"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#D8C7CD",
+      "#514047"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#FFFFFF",
+      "#211014"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FF3154",
+      "#A60027"
+    ],
+    "BRAND_500": [
+      "#D10D2B",
+      "#B90027"
+    ],
+    "BRAND_560": [
+      "#B90A25",
+      "#A00022"
+    ],
+    "RED_400": [
+      "#FF3154",
+      "#C0002A"
+    ],
+    "RED_500": [
+      "#D10D2B",
+      "#B90027"
+    ]
+  },
+  "rawColors": {
+    "BRAND_500": [
+      "#D10D2B",
+      "#B90027"
+    ],
+    "BRAND_560": [
+      "#B90A25",
+      "#A00022"
+    ]
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/USERNAME/chimera-test-discord/main/examination-chimera-bg.jpg",
+    "blur": 0,
+    "alpha": 0.28
+  }
+}
